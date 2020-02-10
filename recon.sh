@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #Subdomains Recon by BLaZZes10
-
+#Look S3archSubdomains on my profile
 #check parameters
 if [ "$#" -ne 1 ]; then
 	echo "Introduce el archivo con los subdominios"
